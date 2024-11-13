@@ -1,6 +1,6 @@
 # LSTM Turbulence Model Prediction Repository
 
-This repository contains the necessary files and code used for predicting Reynolds stress \(\langle uv \rangle^+\) in statistical 2D turbulent flows using a Long Short-Term Memory (LSTM) neural network, as described in the paper 'Modeling turbulent flow with LSTM neural networks', and 'Using LSTM predictions for RANS simulations'.
+This repository contains the necessary files and code used for predicting Reynolds stress \(\langle uv \rangle^+\) in statistical 2D turbulent channel flows using a Long Short-Term Memory (LSTM) neural network, as described in the paper 'Modeling turbulent flow with LSTM neural networks', and 'Using LSTM predictions for RANS simulations'.
 
 ## Files
 
