@@ -42,6 +42,6 @@ This repository contains the necessary files and code used for predicting Reynol
 
 If you use this code or data in your research, please cite the corresponding paper:  
 
-H.D. Pasinato. Modeling turbulent flows with LSTM neural network. arXiv:2307.13784v1[physics.flu-dyn], 2023.
+H.D. Pasinato. Modeling turbulent flows with LSTM neural network. arXiv:2307.13784v1[physics.flu-dyn], 2023 [https://arxiv.org/abs/2307.13784]
 
 H.D. Pasinato. Using LSTM Predictions for RANS Simulations (to be upload to arXiv repository).
